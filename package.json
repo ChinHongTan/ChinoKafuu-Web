@@ -1,0 +1,17 @@
+{
+  "name": "kafuuchino",
+  "version": "1.0.0",
+  "description": "Webpage for my discord bot >w<",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpage"
+  ],
+  "author": "ChinHongTan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
